@@ -1,5 +1,7 @@
 # Este é o meu primeiro repositório git
 
+Minha profissão é de Analista de software
+
 Neste repositório colocarei o meu portifólio de desenvolvedor
 
 Agora eu quero falar mais sobre mim, quero falar é que eu tinha esquecido de falar o que queria falar
