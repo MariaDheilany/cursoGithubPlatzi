@@ -2,7 +2,7 @@
 
 ## Sobre
 
-Olá, eu sou Maria Dheilany e estou amando o GitHub.
+Olá, eu sou **Maria Dheilany** e estou *amando* o GitHub.
 
 Se você quiser saber mais sobre mim, pode acessar [meu Linkedin](https://www.linkedin.com/in/maria-dheilany-lima-820137160/)
 
