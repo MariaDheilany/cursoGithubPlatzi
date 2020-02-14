@@ -1,14 +1,14 @@
-# Este é o meu primeiro repositório git
+# Maria Dheilany
 
-Meu nome é Maria
-Minha profissão é de Analista de software
+## Sobre
 
-Neste repositório colocarei o meu portifólio de desenvolvedor
+Olá, eu sou Maria Dheilany e estou amando o GitHub.
 
-Agora eu quero falar mais sobre mim, quero falar é que eu tinha esquecido de falar o que queria falar
+Se você quiser saber mais sobre mim, pode acessar [meu Linkedin](https://www.linkedin.com/in/maria-dheilany-lima-820137160/)
 
-##Existe um arquivo com a lista de lnguagens que programo
+## Cursos do Platzi que fiz
 
-As minhas experimentações.
-
-Pronto para criar meu portifólio
+- Git e GitHub
+- Programação Básica
+- Curso de Marca Pessoal
+- Desenvolvimento de Website
